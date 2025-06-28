@@ -1,6 +1,6 @@
 
 /* create the database */
-CREATE DATABASE IF NOT EXISTS "alx_book_store"
+"CREATE DATABASE IF NOT EXISTS alx_book_store"
 
 
 /* Books table */
